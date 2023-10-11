@@ -1,0 +1,106 @@
+Valid abilities for use in Configurations.txt:
+
+ASPHYXIATE
+ASSAULT
+BACKHAND
+BARGE
+BERSERK
+BERSERK (V) - Berserk with the 3+pcs Vestments of Havoc effect
+BINDING SHOT
+BLADED DIVE
+BLOOD TENDRILS
+BLOOD TENDRILS (S) - Blood Tendrils with the MWSoA bleed effect
+BOMBARDMENT
+CHAIN
+CHAOS ROAR
+CLEAVE
+COMBUST
+CONCENTRATED BLAST
+CONCENTRATED BLAST (C) - Concentrated Blast cancelled after 2nd hit
+CORRUPTION BLAST
+CORRUPTION SHOT
+DAZING SHOT
+DEADSHOT
+DEADSHOT (I) - Deadshot with Igneous cape effect
+DEATH'S SWIFTNESS
+DEBILITATE
+DECIMATE
+DEEP IMPACT
+DEMORALISE
+DESTROY
+DETONATE
+DETONATE (B) - Detonate with Blast Diffusion Boots effect cancelled at 80%
+DISMEMBER
+DISMEMBER (C) - Dismember with Strength cape effect
+DISMEMBER (C+L4) - Dismember with Strength cape and Lunging 4 effects
+DISMEMBER (C+S+L4) - Dismember with Strength cape, MWSoA, and Lunging 4 effects
+DRAGON BREATH
+FLURRY
+FORCEFUL BACKHAND
+FRAGMENTATION SHOT
+FRENZY
+FURY
+FURY (C) - Fury cancelled after 2nd hit
+GREATER BARGE
+GREATER CHAIN
+GREATER CONCENTRATED BLAST
+GREATER CONCENTRATED BLAST (C) - Greater Concentrated Blast cancelled after 3rd hit
+GREATER DAZING SHOT
+GREATER DAZING SHOT (1) - Greater Dazing Shot maintaining 1 stack of Puncture
+GREATER DAZING SHOT (10) - Greater Dazing Shot maintaining 10 stacks of Puncture
+GREATER DAZING SHOT (13) - Greater Dazing Shot maintaining 13 stacks of Puncture
+GREATER DEATH'S SWIFTNESS
+GREATER FLURRY
+GREATER FURY
+GREATER RICOCHET
+GREATER RICOCHET (C4) - Greater Ricochet with Caroming 4 effect
+GREATER SONIC WAVE
+GREATER SUNSHINE
+HAVOC
+HORROR
+HURRICANE
+IMPACT
+KICK
+MAGMA TEMPEST
+MASSACRE
+METAMORPHOSIS
+NEEDLE STRIKE
+OMNIPOWER
+OMNIPOWER (I) - Omnipower with Igneous cape effect
+ONSLAUGHT
+OVERPOWER
+OVERPOWER (I) - Overpower with Igneous cape effect
+PIERCING SHOT
+PULVERISE
+PUNISH
+QUAKE
+RAPID FIRE
+RICOCHET
+ROUT
+SACRIFICE
+SALT THE WOUND
+SALT THE WOUND (1) - Salt the Wound with 1 stack of Puncture
+SALT THE WOUND (10) - Salt the Wound with 10 stacks of Puncture
+SALT THE WOUND (13) - Salt the Wound with 13 stacks of Puncture
+SEVER
+SHADOW TENDRILS
+SHATTER
+SHOCK
+SLAUGHTER
+SLAUGHTER (S) - Slaughter with the MWSoA bleed effect
+SLICE
+SMASH
+SMOKE TENDRILS
+SNAP SHOT
+SNIPE
+SNIPE (C) - Snipe cancelled after hit
+SONIC WAVE
+STOMP
+STORM SHARDS
+SUNSHINE
+TIGHT BINDINGS
+TSUNAMI
+TUSKA'S WRATH - non-task damage only
+UNLOAD
+WILD MAGIC
+WRACK
